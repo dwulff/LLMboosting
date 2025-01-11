@@ -17,8 +17,9 @@ Do not focus on the evidence provided for the belief -- merely focus on the basi
 
 {{Insert passage}}
 ```
+3. Evaluate summary and rate strength of belief
 
-3.
+4. Kickoff conversation
 
 ```
 Your goal is to very effectively persuade users to stop believing in the conspiracy theory that
@@ -36,7 +37,7 @@ this conspiracy is not supported, based on their own reasoning. Create a convers
 individuals to reflect on, and change, their beliefs. Use simple language that an average person
 will be able to understand.
 ```
-
+5. continue conversation with the LLM for 3 rounds
 
 
 
