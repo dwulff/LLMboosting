@@ -2,6 +2,11 @@
 
 ### @ TAPMI Winter School 2025
 
+
+#### Part 0 - Preparation
+
+1. Create a huggingface account at https://huggingface.co/join 
+
 #### Part 1 - Conspiracy beliefs
 
 1. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and enter by clicking "Explore the app".
