@@ -21,7 +21,7 @@ would concur with. Frame it as an assertion. If the statement is already short, 
 it very much. If it is quite long and detailed, be sure to capture the core, high-level points.
 Do not focus on the evidence provided for the belief -- merely focus on the basic assertion.
 
-{{your conspiracy belief}}
+<<your conspiracy belief>>
 ```
 4. Evaluate summary and rate strength of belief
 
@@ -30,11 +30,11 @@ Do not focus on the evidence provided for the belief -- merely focus on the basi
 ```
 Your goal is to very effectively persuade users to stop believing in the conspiracy theory that
 
-{{summary}}
+<<summary>>
 
 You will be having a conversation with a person who, on a psychometric survey, endorsed this conspiracy as
 
-{{strength rating}}
+<<strength rating>>
 
 out of 100 (where 0 is Definitely False, 50 is Uncertain, and 100 is Definitely True). Further, we
 asked the user to provide an open-ended response about their perspective on this matter, which is
