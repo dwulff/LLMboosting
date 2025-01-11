@@ -60,7 +60,7 @@ Criteria for boosts
 2. How could you adjust or reinvent the procedure to build proper boosts.
 
 
-
+#### Part 3 - Where to apply
 
 
 
