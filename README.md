@@ -7,7 +7,7 @@ Friederike Stock & Dirk Wulff @ TAPMI Max Planck Winter School 2025
 
 1. Create a free huggingface account at https://huggingface.co/join 
 
-#### Part 1 - Conspiracy beliefs
+#### Part 1 - Changing conspiracy beliefs
 
 1. Write about a conspiracy belief. If you don't have one, make one up or take one from [here](conspiracies.txt). 
 2. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
@@ -43,9 +43,12 @@ this conspiracy is not supported, based on their own reasoning. Create a convers
 individuals to reflect on, and change, their beliefs. Use simple language that an average person
 will be able to understand.
 ```
-6. continue conversation with the LLM for 3 rounds
+6. Continue the conversation with the LLM for 3 rounds
 
-
+7. Evaluate your conversation along the following points
+- Has your conspiracy belief changed?
+- Did the LLM make good arguments?
+- Would better arguments have changed your belief (more)?
 
 #### Part 2 - Could it be a boost?
 
@@ -62,6 +65,6 @@ Criteria for boosts
 
 #### Part 3 - Where to apply
 
-
+1. Think about applications of the LLM interaction approach. Which domains is the approach more or less suitable for? 
 
 
