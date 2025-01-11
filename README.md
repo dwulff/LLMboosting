@@ -11,7 +11,7 @@ Friederike Stock & Dirk Wulff @ TAPMI Max Planck Winter School 2025
 
 1. Write about a conspiracy belief. If you don't have one, make one up or take one from [here](conspiracies.txt). 
 2. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
-3. Run the following prompt completed with your conspiracy belief 
+3. Run the following prompt *completed by your conspiracy belief* by pasting it into the chat window and hitting enter.
 
 ```
 Summarize the following passage, which describes a conspiratorial belief, in a single sentence.
@@ -21,11 +21,11 @@ would concur with. Frame it as an assertion. If the statement is already short, 
 it very much. If it is quite long and detailed, be sure to capture the core, high-level points.
 Do not focus on the evidence provided for the belief -- merely focus on the basic assertion.
 
-{{Your conspiracy belief}}
+{{your conspiracy belief}}
 ```
 4. Evaluate summary and rate strength of belief
 
-5. Run the following prompt completed with the summary and your strength rating to Kickoff conversation
+5. Run the following prompt *completed by the summary and your strength rating* to start the conversation
 
 ```
 Your goal is to very effectively persuade users to stop believing in the conspiracy theory that
