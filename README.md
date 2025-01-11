@@ -9,8 +9,9 @@
 
 #### Part 1 - Conspiracy beliefs
 
-1. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
-2. Enter the following prompt
+1. Write about a conspiracy belief 
+2. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
+3. Enter the following prompt completed with your conspiracy belief 
 
 ```
 Summarize the following passage, which describes a conspiratorial belief, in a single sentence.
@@ -20,7 +21,7 @@ would concur with. Frame it as an assertion. If the statement is already short, 
 it very much. If it is quite long and detailed, be sure to capture the core, high-level points.
 Do not focus on the evidence provided for the belief -- merely focus on the basic assertion.
 
-{{Insert passage}}
+{{Your conspiracy belief}}
 ```
 3. Evaluate summary and rate strength of belief
 
