@@ -5,7 +5,7 @@ At TAPMI Max Planck Winter School 2025
 
 #### Part 0 - Preparation
 
-a) Create a free huggingface account at https://huggingface.co/join 
+a) Create a free Hugging Face account [here](https://huggingface.co/join). 
 
 #### Part 1 - Changing conspiracy beliefs
 
