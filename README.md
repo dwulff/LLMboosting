@@ -5,7 +5,7 @@
 
 #### Part 0 - Preparation
 
-1. Create a huggingface account at https://huggingface.co/join 
+1. Create a free huggingface account at https://huggingface.co/join 
 
 #### Part 1 - Conspiracy beliefs
 
