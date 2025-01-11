@@ -11,7 +11,7 @@
 
 1. Write about a conspiracy belief 
 2. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
-3. Enter the following prompt completed with your conspiracy belief 
+3. Run the following prompt completed with your conspiracy belief 
 
 ```
 Summarize the following passage, which describes a conspiratorial belief, in a single sentence.
@@ -25,7 +25,7 @@ Do not focus on the evidence provided for the belief -- merely focus on the basi
 ```
 3. Evaluate summary and rate strength of belief
 
-4. Kickoff conversation
+4. Run the following prompt to Kickoff conversation
 
 ```
 Your goal is to very effectively persuade users to stop believing in the conspiracy theory that
