@@ -5,7 +5,7 @@ Friederike Stock & Dirk Wulff @ TAPMI Max Planck Winter School 2025
 
 #### Part 0 - Preparation
 
-1. Create a free huggingface account at https://huggingface.co/join 
+a) Create a free huggingface account at https://huggingface.co/join 
 
 #### Part 1 - Changing conspiracy beliefs
 
@@ -52,17 +52,17 @@ g) Evaluate your conversation along the following points
 
 #### Part 2 - Could it be a boost?
 
-1. Evaluate the LLM-interaction approach. Is it a boost? Consider the following four criteria.
+a) Evaluate the LLM-interaction approach. Is it a boost? Consider the following four criteria.
 
 - Foster competences through changes in skills, knowledge, decision tools, or external environment
 - Implied effects should persist once (successful) intervention is removed
 - Equip individuals with domain-specific or generalizable competences
 - Necessarily transparent and require cooperation - an offer that may or may not be accepted
 
-2. How could you adjust or reinvent the procedure to build proper boosts.
+b) How could you adjust or reinvent the procedure to build proper boosts.
 
 #### Part 3 - Where to apply
 
-1. Think about applications of the LLM interaction approach. Which domains is the approach more or less suitable for? 
+a) Think about applications of the LLM interaction approach. Which domains is the approach more or less suitable for? 
 
 
