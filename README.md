@@ -9,7 +9,7 @@ Friederike Stock & Dirk Wulff @ TAPMI Max Planck Winter School 2025
 
 #### Part 1 - Conspiracy beliefs
 
-1. Write about a conspiracy belief. If you don't have one, make one up. 
+1. Write about a conspiracy belief. If you don't have one, make one up or take one from [here](conspiracies.txt). 
 2. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
 3. Run the following prompt completed with your conspiracy belief 
 
