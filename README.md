@@ -10,7 +10,7 @@ a) Create a free huggingface account at https://huggingface.co/join
 #### Part 1 - Changing conspiracy beliefs
 
 a) Write about a conspiracy belief. If you don't have one, make one up or take one from [here](conspiracies.txt). 
-b) Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
+b) Go to [Hugging Chat](https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct) and sign in.
 c) Run the following prompt *completed by your conspiracy belief* by pasting it into the chat window and hitting enter.
 
 ```
