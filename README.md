@@ -52,10 +52,10 @@ will be able to understand.
 1. Evaluate the LLM-interaction approach. Is it a boost? Consider the four criteria listed below.
 
 Criteria for boosts
-a. Foster competences through changes in skills, knowledge, decision tools, or external environment
-b. Implied effects should persist once (successful) intervention is removed
-c. Equip individuals with domain-specific or generalizable competences
-d. Necessarily transparent and require cooperation - an offer that may or may not be accepted
+- Foster competences through changes in skills, knowledge, decision tools, or external environment
+- Implied effects should persist once (successful) intervention is removed
+- Equip individuals with domain-specific or generalizable competences
+- Necessarily transparent and require cooperation - an offer that may or may not be accepted
 
 2. How could you adjust or reinvent the procedure to build proper boosts.
 
