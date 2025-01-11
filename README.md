@@ -9,7 +9,7 @@
 
 #### Part 1 - Conspiracy beliefs
 
-1. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and enter by clicking "Explore the app".
+1. Go to https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct and sign in.
 2. Enter the following prompt
 
 ```
