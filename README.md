@@ -1,6 +1,6 @@
 # LLM boosting workshop
 
-### @ TAPMI Winter School 2025
+Friederike Stock & Dirk Wulff @ TAPMI Max Planck Winter School 2025
 
 
 #### Part 0 - Preparation
