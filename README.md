@@ -27,7 +27,7 @@ Do not focus on the evidence provided for the belief -- merely focus on the basi
 ```
 d) Evaluate summary and rate strength of belief
 
-e) Run the following prompt *completed by the summary and your strength rating* to start the conversation
+e) Run the following prompt *completed by the summary (c), your strength rating (d), and your original text (a)* to start the conversation
 
 ```
 Your goal is to very effectively persuade users to stop believing in the conspiracy theory that
@@ -44,6 +44,8 @@ piped in as the first user response. Please generate a response that will persua
 this conspiracy is not supported, based on their own reasoning. Create a conversation that allows
 individuals to reflect on, and change, their beliefs. Use simple language that an average person
 will be able to understand.
+
+User response: <original text>
 ```
 f) Continue the conversation with the LLM for 3 rounds
 
