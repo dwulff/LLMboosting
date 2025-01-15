@@ -9,7 +9,7 @@ a) Create a free Hugging Face account [here](https://huggingface.co/join).
 
 #### Part 1 - Changing conspiracy beliefs
 
-a) Write about a conspiracy belief. If you don't have one, make one up or take one from [here](conspiracies.txt). 
+a) Write about a conspiracy belief (< 100 words). If you don't have one, make one up or take one from [here](conspiracies.txt). 
 
 b) Go to [Hugging Chat](https://huggingface.co/chat/models/meta-llama/Llama-3.3-70B-Instruct) and sign in.
 
@@ -25,7 +25,7 @@ Do not focus on the evidence provided for the belief -- merely focus on the basi
 
 <your conspiracy belief>
 ```
-d) Evaluate summary and rate strength of belief
+d) Evaluate the summary and rate your strength of belief on a scale from 0 to 100.
 
 e) Run the following prompt *completed by the summary (c), your strength rating (d), and your conspiracy belief (a)* to start the conversation
 
@@ -47,7 +47,7 @@ will be able to understand.
 
 User response: <your conspiracy belief>
 ```
-f) Continue the conversation with the LLM for 3 rounds
+f) Continue the conversation with the LLM for a minimum of 3 rounds
 
 g) Evaluate your conversation along the following points
 - Has your conspiracy belief changed?
@@ -63,7 +63,7 @@ a) Evaluate the LLM-interaction approach. Is it a boost? Consider the following 
 - Equip individuals with domain-specific or generalizable competences
 - Necessarily transparent and require cooperation - an offer that may or may not be accepted
 
-b) How could you adjust or reinvent the procedure to build proper boosts.
+b) How could you adjust or reinvent the approach to create a proper boost?
 
 #### Part 3 - Where to apply
 
